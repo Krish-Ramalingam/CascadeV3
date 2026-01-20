@@ -1,0 +1,24 @@
+[   
+    DECL
+    var::x
+    eq
+    EXPR
+    ... #we have ways to solve this!
+    FOR
+    COND
+    ... #we have ways to evaluate this!
+    INDENT
+    BLOCK
+
+
+]
+
+IndStack for, while, when
+
+WHEN AT START
+ONCE AT END
+
+main / funcspace / watchspace / devlog
+upon declaration, initialise all!!
+
+great
